@@ -1,0 +1,39 @@
+.form-inline{
+    display: flex;
+    justify-content: space-between;
+}
+.header{
+    padding: 20px;
+    max-width: 1366px;
+    margin: 0 auto;
+}
+.navbar.navbar-light.bg-light{
+margin-top: 40px;
+}
+.nav-link:hover{
+    color: grey;
+}
+.container{
+    max-width: 1366px;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+padding: 20px;
+}
+.container_crsl{
+    padding: 20px;
+    max-width: 1366px;
+    margin: 40px auto;
+}
+.carusel-inner{
+    display: flex;
+    align-content: center;  
+}
+.container_footer{
+    max-width: 1366px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
